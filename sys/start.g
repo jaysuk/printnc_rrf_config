@@ -1,0 +1,1 @@
+M291 P"Have you set the Z offset correctly?" S3				; Hopefully this will prevent broken bits
